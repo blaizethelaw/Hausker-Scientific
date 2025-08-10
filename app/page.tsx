@@ -320,7 +320,7 @@ function CaseStudies(){
             <div className="space-y-4 text-gray-300">
               <div><h4 className="font-semibold text-cyan-400">Challenge:</h4><p>Inefficient separation of full and empty AAV capsids was limiting product purity and yield.</p></div>
               <div><h4 className="font-semibold text-green-400">Solution:</h4><p>Developed innovative anion-exchange chromatography method using choline-type salts, optimizing buffer conditions and gradient profiles.</p></div>
-              <div><h4 className="font-semibold text-purple-400">Result:</h4><p>Achieved superior separation with >95% purity. Method published in peer-reviewed journal and adopted by multiple gene therapy programs.</p></div>
+              <div><h4 className="font-semibold text-purple-400">Result:</h4><p>Achieved superior separation with {'>'}95% purity. Method published in peer-reviewed journal and adopted by multiple gene therapy programs.</p></div>
             </div>
           </div>
           <div className="bg-slate-800/50 backdrop-blur-sm rounded-2xl p-8 border border-green-500/20 hover:border-green-500/50 transition-all duration-300 hover:shadow-2xl hover:shadow-green-500/20">
